@@ -1,2 +1,3 @@
-DSA-submissions
-Tech Stack: C++
+# DSA-submissions
+
+**Tech Stack: C++**
